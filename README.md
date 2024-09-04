@@ -1,6 +1,6 @@
-### Installation
-#### Install Node js 18+
+# Installation
+#### 1. Install Node js 18+
 `npm install`
 
-#### Initialize Playwright
+#### 2. Initialize Playwright
 `npm init playwright@latest`
